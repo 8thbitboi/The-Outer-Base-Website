@@ -15,7 +15,11 @@ body{
 	width:90%;
 	margin:0 auto;
 }
+.content{
+	height: 2160px;
+	width: 1920px;
 
+}
 header {
 
 	background: #000000
@@ -80,7 +84,7 @@ nav a:hover::before{
 	
 	margin: 135px auto;
 	position: relative;
-	height: 400px;
+	height: 430px;
 	width: 800px;
 	background-color:rgba(14,45,52,0.4);
   	border: 5px solid;
@@ -107,13 +111,12 @@ p{
 }
 
 .begin{
-	margin: 135px auto;
+	margin: 205px auto;
 	margin-bottom: 100px;
 	position: relative;
 	height: 530px;
 	width: 750px;
 }
-
 *{
 	margin: 0;
 	padding: 0;
